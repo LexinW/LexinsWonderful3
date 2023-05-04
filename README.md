@@ -26,3 +26,7 @@ I wrote comments throughout the entire javascript file for a breakdown of all th
 I really enjoyed starting Javascript. This was challenging, but I was able to figure everything out thanks to mozilla docs (hehe) and google!
 
 I can not figure out how to take a screen shot on my new laptop, so just trust me I tested the site multiple times and everything seems to work.
+
+Github Repo link: https://github.com/LexinW/LexinsWonderful3
+
+URL link: https://lexinw.github.io/LexinsWonderful3/
